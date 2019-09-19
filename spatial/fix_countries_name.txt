@@ -1,0 +1,37 @@
+Bahamas, The|The Bahamas
+Brunei Darussalam|Brunei
+Burma|Myanmar
+Cape Verde|Cabo Verde
+Congo, Dem. Rep.|Democratic Republic of the Congo
+Democratic Republic of Congo|Democratic Republic of the Congo
+Congo, Democratic Republic of the|Democratic Republic of the Congo
+Congo, Rep.|Republic of the Congo
+Congo, Republic of the|Republic of the Congo
+Cote d'Ivoire|Ivory Coast
+Czech Republic|Czechia
+Egypt, Arab Rep.|Egypt
+Micronesia, Fed. Sts.|Federated States of Micronesia
+Gambia, The|Gambia
+Iran, Islamic Rep.|Iran
+Korea, Dem. People's Rep.|North Korea
+Korea, North|North Korea
+Korea, Rep.|South Korea
+Korea, South|South Korea
+Kyrgyz Republic|Kyrgyzstan
+Lao PDR|Laos
+North Macedonia|Macedonia
+Russian Federation|Russia
+Serbia|Republic of Serbia
+Slovak Republic|Slovakia
+St. Kitts and Nevis|Saint Kitts and Nevis
+St. Lucia|Saint Lucia
+St. Vincent and the Grenadines|Saint Vincent and the Grenadines
+Syrian Arab Republic|Syria
+West Bank and Gaza|Palestine
+Tanzania|United Republic of Tanzania
+Timor-Leste|East Timor
+United States|United States of America
+Holy See|Vatican
+Vatican City|Vatican
+Venezuela, RB|Venezuela
+Yemen, Rep.|Yemen
